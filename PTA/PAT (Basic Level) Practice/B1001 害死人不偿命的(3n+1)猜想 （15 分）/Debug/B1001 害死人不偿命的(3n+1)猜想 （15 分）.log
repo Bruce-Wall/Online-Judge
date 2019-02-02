@@ -1,0 +1,4 @@
+﻿  B1001 Callatz.cpp
+d:\code_repository\online judge\pta\pat (basic level) practice\b1001 害死人不偿命的(3n+1)猜想 （15 分）\b1001 callatz.cpp(5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: 参见“scanf”的声明
+  B1001 害死人不偿命的(3n+1)猜想 （15 分）.vcxproj -> D:\Code_Repository\Online Judge\PTA\PAT (Basic Level) Practice\Debug\B1001 害死人不偿命的(3n+1)猜想 （15 分）.exe
